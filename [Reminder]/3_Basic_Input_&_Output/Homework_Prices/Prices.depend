@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607927129 source:d:\diar\ai\programming c++\3_basic_input_&_output\prices\main.cpp
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607994391 source:d:\diar\ai\programming c++\4_conventions_&_operators\quadratic\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
